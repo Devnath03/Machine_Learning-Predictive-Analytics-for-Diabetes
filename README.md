@@ -42,15 +42,6 @@ Open `Diabetic Prediction.ipynb` for step-by-step analysis and interactive predi
 - **Model:** (e.g., RandomForestClassifier, LogisticRegression)
 - **Serialization:** Models saved as `model.pickle`, scaler as `scaler.pickle`
 
-## Graphical Analysis
-Below are sample visualizations generated during analysis:
-
-![Feature Importance](docs/feature_importance.png)
-*Feature importance plot showing the most influential health metrics.*
-
-![ROC Curve](docs/roc_curve.png)
-*ROC curve illustrating model performance.*
-
 ## Results Overview
 Results from model evaluation and predictions are saved for further analysis:
 - **Accuracy:** 77.%
