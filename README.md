@@ -55,6 +55,12 @@ Below are sample visualizations generated during analysis:
 Results from model evaluation and predictions are saved for further analysis:
 - **Accuracy:** 77.%
 
+## Request POST Method
+<img width="1486" height="624" alt="Screenshot 2025-08-09 234718" src="https://github.com/user-attachments/assets/590bb255-e926-4b88-ae5b-6732c250fea5" />
+
+## Request POST Method
+<img width="1487" height="570" alt="image" src="https://github.com/user-attachments/assets/cb043c4f-5dde-4618-b580-f7966a5b004b" />
+
 Saved results can be found in the `results/` directory or as output in the notebook.
 
 ## How to Save Results
